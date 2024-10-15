@@ -1,4 +1,6 @@
 print("hello pyton")
 print("fitree mamad")
-print("18")
 print("fitree")
+print("18")
+print("67319010049")
+print("เล่นเกม rov")
